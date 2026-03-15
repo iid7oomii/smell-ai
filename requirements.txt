@@ -1,0 +1,6 @@
+pyrfume
+pandas
+matplotlib
+scikit-learn
+seaborn
+rdkit
